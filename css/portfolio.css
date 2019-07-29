@@ -1,0 +1,141 @@
+header {
+    padding: 11% 0 15%;
+}
+main{
+    background: linear-gradient( #EAF3FF, #FFFFFF , #EAF3FF);
+
+}
+
+header img {
+    max-width: 87%;
+}
+
+header h1 {
+    color: #4A4A4A;
+    font-size: 4.7vw;
+    line-height: 4.7vw;
+}
+
+header p {
+    height: 6vw;
+    margin: 0 3.5%;
+    background-color: #FF6762;
+    width: 3px;
+}
+
+/* ================================== */
+
+.screen-1 {
+    display: flex;
+    margin-bottom: 9%;
+    flex-wrap: wrap;
+}
+
+.screen-1>div{
+padding: 0;
+}
+
+.screen-1 img {
+    box-shadow: 0 5px 20px 0 rgba(47, 105, 229, 0.16);
+    border-radius: 4px;
+    max-width: 100%;
+}
+
+.title {
+    font-size:3.7vw;
+    line-height: 5vw;
+    color: #4A4A4A;
+    margin-top:3.5vw;
+}
+
+.pr-type {
+    color: #FF6762;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.desc {
+    color: #3F4245;
+    font-size: 1.3vw;
+    line-height: 2vw;
+    padding-right: 9%;
+    margin-top: 6%;
+}
+
+.info {
+    display: flex;
+    margin-top:3vw;
+    flex-wrap: wrap;
+}
+
+.info p {
+    color: #2F69E5;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.35px;
+    margin-right: 16px;
+    border-radius: 2px;
+    background-color: #E5ECFC;
+    padding: .5vw 1vw .4vw;
+}
+
+/* ================================================ */
+
+.screen-2 h4 {
+    opacity: 0.5;
+    color: #6C7C93;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 44px;
+    padding-left: 10%;
+    margin-bottom: 3%;
+}
+.screen-2{
+    margin-bottom:14%;
+}
+div.sec1-1{
+    padding:0 8%;
+}
+.s4fe-phone,
+.alert-phone,
+.flip-phone{
+    position: relative;
+}
+.s4fe-phone div,
+.alert-phone div {
+    top: 17%;
+    left: 13%;
+    
+}
+.flip-phone div{
+    top: 17%;
+    right:  13%;
+}
+.s4fe-phone div,
+.alert-phone div,
+.flip-phone div{
+    position: absolute;
+    text-align: center;
+    box-sizing: border-box;
+    padding:10px 5px;
+	border: 2px solid #E5ECFC;
+	border-radius: 18px;
+	background-color: #FBFDFF;
+	box-shadow: 0 5px 20px 0 rgba(47,105,229,0.16);
+   width: 17vw;
+}
+
+
+.shape{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(90deg,rgba(255,255,255,0) 0%,  #FFFFFF 100%);
+    z-index: 1;
+
+}
+.ushare-slider{
+    margin-top: 12%;
+}

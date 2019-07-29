@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="886px" height="800px" viewBox="0 0 886 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Fill 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="33.2534473%" y1="10.6046889%" x2="7.86426059%" y2="80.3442454%" id="linearGradient-1">
+            <stop stop-color="#000BE2" offset="0%"></stop>
+            <stop stop-color="#2F69E5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M821.073279,0 L740.290949,336.905908 C700.370656,503.395074 802.975,670.723003 969.464167,710.643297 C993.018136,716.291 1017.15285,719.158719 1041.37444,719.18777 L1439.78123,719.665619 L1439.78123,1.0523955 L821.073279,0 Z" id="path-2"></path>
+        <filter x="-37.6%" y="-26.4%" width="153.1%" height="152.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-80" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="50" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0529608243 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---2019-Redesign" transform="translate(-554.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Hero">
+                <g id="Fill-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

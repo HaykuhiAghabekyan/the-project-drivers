@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="692px" height="597px" viewBox="0 0 692 597" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="68.1154646%" y1="29.9821004%" x2="7.59574478%" y2="79.2292864%" id="linearGradient-1">
+            <stop stop-color="#000BE6" offset="0%"></stop>
+            <stop stop-color="#2F69E5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.495791481">
+        <path d="M631.127944,597 L9.09494702e-13,597 L9.09494702e-13,0.244650057 L381.366347,0.702009363 C405.590585,0.731060644 429.727931,3.59940185 453.284337,9.24832341 C619.772487,49.1728563 722.372571,216.503398 682.448038,382.991548 L631.127944,597 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

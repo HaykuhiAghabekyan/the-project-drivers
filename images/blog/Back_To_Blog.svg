@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="16px" viewBox="0 0 9 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.1 (72631) - https://sketchapp.com -->
+    <title>8C8CC70C-3AC7-4582-83DB-69F06E3A262E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="16.304 6 18 7.57425743 10 15 2 7.57425743 3.696 6 10 11.8514851"></polygon>
+    </defs>
+    <g id="Car-Listing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.400000006">
+        <g id="Filter" transform="translate(-456.000000, -603.000000)">
+            <g id="Group-2-Copy-3" transform="translate(450.000000, 511.000000)">
+                <g id="Rectangle-3">
+                    <g id="Icon-Copy-3" transform="translate(11.000000, 100.000000) scale(-1, 1) rotate(-90.000000) translate(-11.000000, -100.000000) translate(1.000000, 90.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="color/grey" mask="url(#mask-2)" fill="#6E768F">
+                            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

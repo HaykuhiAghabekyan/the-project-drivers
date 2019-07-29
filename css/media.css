@@ -1,0 +1,787 @@
+@media(min-width:1290px) {
+    .blog-header ul {
+        margin-right: -6vw;
+    }
+}
+
+@media(max-width:1200px) {
+    .terms, .privacy {
+        padding: 16% 0 10%;
+    }
+    .ideas-banner {
+        padding: 10.8vw 0 8vw;
+    }
+
+
+}
+
+/* ================================================================ */
+
+@media(max-width:992px) {
+    .power-busines a, .power-busines button {
+        font-size: 14px;
+    }
+    .navbar-brand {
+        width: 175px;
+    }
+    .text-write h2 {
+        font-size: 54px;
+        line-height: 54px;
+    }
+    .about-us p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .contact-us p, .contact-us a, footer p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .country {
+        margin-top: 7%;
+    }
+    footer h5 {
+        font-size: 15px;
+    }
+    footer h5 img {
+        width: 25px;
+        height: 15px;
+        margin-right: 3px;
+    }
+    footer p {
+        font-size: 10px;
+        line-height: 6px;
+        margin-bottom: 5px;
+    }
+    footer p img {
+        width: 10px;
+    }
+    .terms, .privacy {
+        padding: 20% 0 6%;
+    }
+    .terms-text {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .subscribe h2 {
+        font-size: 39px;
+    }
+    .subscribe p {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .copy a {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .ruby {
+        padding: 19% 0 7.5%;
+    }
+    .positions li, .positions p {
+        font-size: 14px;
+    }
+    .careers-block h3 {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .badge {
+        padding: 5px 0 2px;
+        width: 34px;
+        font-size: 9px;
+    }
+    .careers-block p {
+        font-size: 13px;
+    }
+    .tabs a {
+        padding: 2px 3px;
+        font-size: 10px;
+    }
+    .applay {
+        width: 80px;
+        font-size: 10px;
+    }
+    nav li:hover::before, nav li.active::before {
+        border-top: 7px solid #FFFFFF;
+        top: -21px;
+    }
+    .privacy-bg p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 3%;
+    }
+    .privacy-bg .or-write {
+        font-size: 13px;
+    }
+    .responsible .btns button {
+        font-size: 13px;
+        width: 100%;
+    }
+    .res-applay {
+        padding-top: 13%;
+    }
+    .ideas-single {
+        padding-top: 16%;
+    }
+    .introduction p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .introduction h3 {
+        font-size: 15px;
+    }
+    .related-post h2 {
+        font-size: 40px;
+    }
+    .card h5 {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .card-text {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .card-data {
+        margin-top: 15px;
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .card-body {
+        padding-bottom: 0;
+    }
+    .grid {
+        column-count: 2;
+    }
+    .info p {
+        font-size: 10px;
+        margin-right: 8px;
+    }
+    .info {
+        margin: 0;
+    }
+    .title {
+        margin-top: 1.5vw;
+    }
+    .slick-prev, .slick-next {
+        width: 40px;
+        height: 40px;
+    }
+    .blog-open h1 {
+        font-size: 22px;
+    }
+    .grid-sizer, .grid-item {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:850px) {
+    .ruby {
+        background: url(../images/background/Back-Combined.png) 0vw 7vw/100% 38% no-repeat
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:767px) {
+    .burger-container {
+        display: block
+    }
+    .grid {
+        column-count: 1;
+        width: 80%;
+        margin: auto;
+    }
+    nav li:hover::before, nav li.active::before, nav li.contact {
+        border: none;
+    }
+    .home-header {
+        background: url(../images/background/Top_Back.png) center center/ cover;
+    }
+    .collapse {
+        background: #0211db;
+        padding: 5%;
+        text-align: right;
+    }
+    .planet {
+        display: none;
+    }
+    .power-busines h1 {
+        font-size: 7.7vw;
+        ;
+        line-height: 7.7vw;
+    }
+    .our-services h3 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .our-services img {
+        width: 55px;
+    }
+    .our-services p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .ideas-cols h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .ideas-cols p {
+        font-size: 10px;
+    }
+    .ideas-cols {
+        height: 188px;
+        padding-right: 6px;
+    }
+    .contact-form {
+        order: 1;
+    }
+    .country {
+        order: 2;
+        display: flex;
+    }
+    .country>div {
+        flex: 1;
+        margin-bottom: 0;
+    }
+    .contact-us textarea {
+        height: 100px;
+    }
+    .mail, .contact-us span a {
+        font-size: 12px;
+    }
+    .contact-us h5 {
+        font-size: 15px;
+    }
+    .contact-us h5 img, footer h5 img {
+        width: 25px;
+        height: 15px;
+        margin-right: 5px;
+    }
+    .contact-us p, .contact-us a, footer p {
+        font-size: 11px;
+        line-height: 6px;
+        margin-bottom: 0;
+    }
+    .country-hid {
+        display: none;
+    }
+    footer h5 {
+        font-size: 4vw;
+    }
+    footer p {
+        font-size: 2vw;
+        line-height: 3vw;
+    }
+    .terms, .privacy {
+        padding: 24% 0 6%;
+    }
+    .source-title h2 {
+        font-size: 6.7vw;
+        line-height: 6.7vw;
+    }
+    .subscribe h2 {
+        font-size: 32px;
+        line-height: 50px;
+    }
+    .subscribe h3 {
+        font-size: 17px;
+        line-height: 30px;
+        margin-top: 0;
+    }
+    .subscribe label {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .subscribe button {
+        font-size: 14px;
+        padding: 7px 5.2%;
+    }
+    .responsible .btns button {
+        width: 40%;
+    }
+    .privacy h3 {
+        font-size: 20px;
+    }
+    .privacy p {
+        font-size: 15px;
+        line-height: 23px;
+        margin-bottom: 0;
+    }
+    .res-applay {
+        padding-top: 0%;
+    }
+    .text-write h2 {
+        font-size: 6vw;
+        line-height: 6vw;
+    }
+    .privacy-bg p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .subscribe button {
+        padding: 2px 5.2%;
+        margin: 2% 0 7%;
+    }
+    .careers-bg {
+        background: url(../images/background/Back-Combined.png) 0 7vw/100% 60% no-repeat;
+    }
+    .the-project-drivers {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .location img, .location span {
+        display: none;
+    }
+    .the-project-drivers {
+        margin-top: 0;
+    }
+    .applay button {
+        font-size: 15px;
+        padding: 5px 4.8%;
+    }
+    .applay span {
+        font-size: 2.1vw;
+        line-height: 24px;
+    }
+    .privacy-bg label {
+        font-size: 14px;
+    }
+    .privacy-bg .file-button {
+        padding: 8px 0;
+    }
+    .ideas-single {
+        padding-top: 10%;
+    }
+    p.link-source {
+        color: #336CE6;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .introduction h2 {
+        font-size: 2.7vw;
+        line-height: 3.1vw;
+    }
+    .introduction p {
+        font-size: 2vw;
+        line-height: 2.2vw;
+    }
+    .introduction li {
+        font-size: 17px;
+    }
+    .related-post h2 {
+        font-size: 35px;
+    }
+ 
+    .blog-header li.actived, .blog-header li:hover {
+        border-bottom: none;
+    }
+    .blog h3 {
+        font-size: 16px;
+        margin: 5% 0;
+        height: auto;
+    }
+    .blog-block div:empty {
+        height: 24vw;
+    }
+    .blog-desc {
+        padding-bottom: 0;
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .blog h1 {
+        padding-left: 8%;
+    }
+    .next {
+        font-size: 13px;
+    }
+    .footer-menu li {
+        font-size: 12px;
+    }
+    .footer-menu {
+        padding-bottom: 0%;
+        margin-bottom: 2%;
+    }
+    footer img {
+        width: 17px;
+        margin-left: 5px;
+    }
+    footer p {
+        font-size: 1.5vw;
+    }
+    .privacy-bg li {
+        font-size: 18px;
+    }
+    header h1 {
+        font-size: 4vw;
+        line-height: 4vw;
+    }
+    .info p {
+        padding: 0 6px
+    }
+    .slick-prev, .slick-next {
+        width: 30px;
+        height: 30px;
+    }
+    .dn {
+        display: none;
+    }
+    .title {
+        font-size: 5.7vw;
+        line-height: 9vw;
+    }
+    .desc {
+        font-size: 2.3vw;
+        line-height: 3.5vw;
+        margin-top: 3%;
+    }
+    .screen-1 {
+        margin-bottom: 5%;
+    }
+    .screen-2 {
+        margin-bottom: 7%;
+    }
+    .success .check {
+        width: 48px;
+        font-size: 21px;
+    }
+    .success h2 {
+        font-size: 23px;
+        line-height: 24px;
+    }
+    .success h3 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .success p {
+        font-size: 12px;
+    }
+    .blog-open h1 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .back-to-blog {
+        font-size: 22px;
+    }
+    .bl-open h2 {
+        font-size: 24px;
+        line-height: 31px;
+        margin: 6% 0 4.2%;
+    }
+    .tech-trans {
+        font-size: 17px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .instrument {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .space-is .space {
+        font-size: 30px;
+    }
+    .space-is p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .soc-icons p {
+        width: 30px;
+        height: 30px;
+        font-size: 13px;
+    }
+    .related h2 { 
+        font-size: 24px; 
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+    .hot .tabs a, .hot .tabs a:hover {
+        margin-top: 5px;
+    }
+}
+
+@media(min-width:576px) and (max-width:776px) {
+    .related .card-body {
+        padding: 7px;
+    }
+    .related .card h5 {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .related h6 {
+        color: #6C7C93;
+        font-size: 8px;
+        line-height: 9px;
+    }
+    .related p {
+        font-size: 8px;
+        margin-bottom: 0;
+        line-height: 12px;
+    }
+    .related a {
+        font-size: 9px;
+    }
+
+}
+
+/* ================================================================ */
+
+@media(max-width:650px) {
+    .ruby {
+        padding: 23% 0 7.5%;
+    }
+    .ideas-banner {
+        padding: 14.8vw 0 8vw;
+    }
+    .source a, .source {
+        margin-bottom: 2vw;
+    }
+    .power-busines h1 {
+        font-size: 6.7vw;
+        line-height: 7.7vw;
+        margin-top: 6%;
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:578px) {
+    .power-busines>div {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .power-busines p {
+        font-size: 15px;
+        padding: 0.5% 0;
+    }
+    .globus {
+        display: none
+    }
+    .about-us p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-bottom: 3%;
+    }
+    .ideas {
+        height: 70vw;
+        padding-top: 10.5vw;
+    }
+    .contact-us h3 {
+        font-size: 16px;
+    }
+    .contact-us label {
+        font-size: 12px;
+    }
+    .contact-us button {
+        padding: 1.2% 2%;
+        width: 60%;
+        margin-bottom: 20px;
+    }
+    .mail {
+        justify-content: center;
+    }
+    .link-source {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .terms-text {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .subscribe h2 {
+        font-size: 5vw;
+        line-height: 33px;
+    }
+    .subscribe h3 {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .ruby {
+        padding: 28% 0 7.5%;
+    }
+    .ideas-banner {
+        padding: 19.8vw 0 8vw;
+    }
+    .show-more button {
+        padding: 7px 2.6%;
+        font-size: 15px;
+    }
+    .positions {
+        padding: 0 19px;
+    }
+    .loc_border {
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .dropdown-shape {
+        height: 82px;
+        width: 128px;
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .application-form h3 {
+        font-size: 23px;
+        margin: 0;
+        padding-left: 15px;
+    }
+    .ideas-cols p.col {
+        flex: .4;
+    }
+    .privacy-bg label {
+        font-size: 14px;
+        line-height: 23px;
+        margin-top: 0px;
+    }
+    .privacy-bg textarea {
+        height: 110px;
+    }
+    .privacy-bg .file-button {
+        padding: 6px 0;
+        width: 115px;
+    }
+    .ideas-single {
+        padding-top: 15%;
+    }
+    p.link-source {
+        font-size: 12px;
+    }
+    .ro-r a, .ro-r span {
+        padding: 0px 5px;
+        margin-right: 4px;
+        font-size: 10px;
+    }
+    .introduction p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .introduction h2 {
+        font-size: 21px;
+        line-height: 28px;
+        margin: 6.5% 0 3%;
+    }
+    .related-post h2 {
+        font-size: 30px;
+    }
+    footer>div:last-of-type {
+        padding: 0 7%;
+    }
+    .bl-open h2 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .tech-trans {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .instrument {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .card-body {
+        padding-bottom: 13px;
+    }
+    .grid-sizer, .grid-item {
+        width: 100%;
+        left: 0;
+        right: 0;
+        margin:10px auto 10px;
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:500px) {
+    .text-write h2 {
+        font-size: 7vw;
+        line-height: 8vw;
+    }
+    .terms, .privacy {
+        padding: 29% 0 6%;
+    }
+    .positions li, .positions p {
+        font-size: 2.5vw;
+    }
+    .location p::after {
+        border-top: 6px solid #2F69E5;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        right: -12px;
+        top: 5px;
+    }
+    .footer-menu a {
+        font-size: 12px;
+    }
+    .footer-menu img {
+        width: 12px;
+    }
+    .footer-menu ul {
+        margin-bottom: 0;
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:450px) {
+    .contact-us h5 {
+        font-size: 11px;
+    }
+    .contact-us h5 img, footer h5 img {
+        width: 15px;
+        height: 10px;
+    }
+    .contact-us p, .contact-us a, footer p {
+        font-size: 8px;
+    }
+    .country {
+        margin-top: 0%;
+    }
+    .the-project-drivers {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .tabs {
+        background: #f8fbff;
+    }
+    .careers-bg {
+        padding: 45vw 0 6vw;
+    }
+    .footer-menu li {
+        font-size: 10px;
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:410px) {
+    .power-busines p {
+        font-size: 12px;
+    }
+    .power-busines a, .power-busines button {
+        font-size: 10px;
+    }
+    .our-services h3 {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .our-services img {
+        width: 45px;
+    }
+    .our-services p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .subscribe p {
+        font-size: 10px;
+    }
+    
+    .footer-menu a {
+        font-size: 9px;
+    }
+}
+
+/* ================================================================ */
+
+@media(max-width:385px) {
+    .navbar-brand {
+        width: 65%;
+    }
+}

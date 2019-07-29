@@ -1,0 +1,28 @@
+.privacy-bg {
+	background: linear-gradient(0deg, #EAF3FF 0%, #FFFFFF 50%, #EAF3FF 100%);
+}
+
+.privacy {
+	padding: 13% 0;
+}
+
+.privacy-text {
+	padding: 0;
+}
+
+.privacy h3{
+	color: #4A4A4A;
+	font-size: 24px;
+	line-height: 44px;
+	margin: 4.5vw 0 1.5vw;
+}
+.privacy p {
+	color: #3F4245;
+	font-size: 18px;
+	line-height: 28px;
+}
+.privacy li{
+	list-style-type: square;
+	color:#2F69E5;
+	font-size: 23px;
+}

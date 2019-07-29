@@ -1,0 +1,159 @@
+.ruby-rails {
+}
+.ruby{
+    padding: 13% 0 3.5%;
+    background: url(../images/background/Back-Combined.png) right 7vw/100% 52% no-repeat;
+}
+
+.the-project-drivers {
+    color: #4A5565;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 7%;
+}
+
+.the-project-drivers span {
+    font-weight: bold;
+}
+
+.btns {
+    margin: 9% 0 5.5%;
+}
+
+.btns button {
+    border-radius: 2px;
+    text-transform: capitalize;
+    padding: 2.2% 0;
+    text-align: center;
+    font-size: 18px;
+    width: 38%;
+}
+
+.responsible .btns button {
+    border-radius: 2px;
+    text-transform: capitalize;
+    padding: 2.2% 0;
+    text-align: center;
+    font-size: 18px;
+    width: 61%;
+}
+
+.btns button:first-of-type {
+    background-color: #FF6762;
+    color: #fff;
+
+}
+.res-applay{
+    padding-top: 11%;
+}
+.btns button:last-of-type {
+    color: #2F69E5;
+    border: 1px solid #CBD9F8;
+    margin-left: 20px;
+}
+
+.or-write a {
+    color: #2983FF;
+    font-weight: 500;
+}
+
+.privacy-bg .or-write {
+    font-size: 16px;
+    line-height: 18px;
+    color: #555555
+}
+
+.privacy-bg h3 {
+    color: #4A4A4A;
+    font-size: 24px;
+    line-height: 44px;
+    margin: 4.5vw 0 1.5vw;
+}
+
+.privacy-bg p {
+    color: #3F4245;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 5%;
+}
+
+.privacy-bg li {
+    list-style-type: square;
+    color: #2F69E5;
+    font-size: 23px;
+}
+
+.application-form h3 {
+    font-size: 28px;
+}
+
+.application-form {
+    padding: 7% 0;
+    background-color: rgba(229, 236, 252, 0.25);
+}
+
+.privacy-bg textarea {
+    height: 150px;
+    resize: none;
+    background: #FCFCFC;
+}
+
+.privacy-bg input {
+    background: #FCFCFC;
+}
+
+.privacy-bg label {
+    color: #6B6774;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 30px;
+}
+
+.privacy-bg input[type="file"] {
+    display: none
+}
+
+.privacy-bg .file-button {
+    padding: 10px 0;
+    width: 160px;
+    border-radius: 3px;
+    background-color: #2F69E5;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.file-button img {
+    width: 9px;
+}
+
+.applay button {
+
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    line-height: 27px;
+    padding: 13px 4.8%;
+    color: #ffffff;
+    border-radius: 3px;
+    background-color: #FF6762;
+}
+
+.applay span {
+    color: #4a4a3a;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+/* .contact-us button {
+    padding: 2.2% 6%;
+    width: 120px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    background-color: rgba(255, 103, 98, 1);
+} */

@@ -1,0 +1,133 @@
+.ideas-single {
+    padding-top: 13%;
+}
+
+p.link-source {
+    color: #336CE6;
+    font-size: 21px;
+    line-height: 32px;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+}
+
+source a:last-of-type {
+    color: #B1C7F5;
+}
+
+.ideas-single h2 {
+    color: #4A4A4A;
+    font-size:  4.75vw;
+    margin-top: 4.5%;
+    line-height:  4.75vw;
+}
+
+.ro-r {
+    color: #6C7C93;
+    font-size: 14px;
+    margin-top: 25px;
+    font-weight: 500;
+    letter-spacing: 0.35px;
+    line-height: 21px;
+}
+
+.ro-r a {
+    color: #6C7C93;
+    padding: 6px 8px;
+    margin-right: 14px;
+    display: inline-block;
+    border-radius: 2px;
+    background-color: #E5ECFC;
+}
+
+/* ================================================== */
+
+.intro img{
+    width: 100%;
+}
+
+
+
+.introduction h2 {
+    color: #4A4A4A;
+    font-size: 24px;
+    line-height: 44px;
+    margin: 7.5% 0 3%;
+}
+
+.introduction p {
+    color: #3F4245;
+    margin-bottom: 4.7%;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.introduction h3{
+    color: #4A5565;
+    font-size: 18px;
+    margin-bottom: 4.7%;
+    font-weight: bold;
+    line-height: 32px;
+}
+.introduction a {
+ color: #4A5565;
+ font-weight: bold;
+}
+.introduction a {
+    border-bottom: 2px solid #2983FF;
+}
+
+.introduction span {
+    font-weight: bold;
+}
+.introduction  li{
+    color:#2F69E5;
+    list-style-type: square;
+    font-size: 25px;
+}
+/* =============================================== */
+.cmo-harry{
+    height: 66vw;
+    background: rgb(35, 143, 137);
+}
+.cmo-harry +p { 
+	color: #6C7C93; 
+	font-size: 14px;
+	line-height: 28px;
+    text-align: center;
+    margin-top: 30px;
+}
+.summary {
+	border: 1px solid #D8D8D8;
+	border-radius: 7px;
+    background-color: #F7F9FF;
+    padding: 0 5.5% 2.5%;
+}
+.summary.introduction h2{
+    margin-top: 30px;
+}
+.related-post{
+    padding: 10.5% 0;
+}
+.related-post h2 { 
+	color: #4A4A4A; 
+	font-size: 48px; 
+	line-height: 64px;
+}
+.card h5 {
+	color: #4A4A4A;
+	font-size: 21px;
+	line-height: 28px;
+}
+.card-text { 
+	color: #6B6774; 
+	font-size: 16px;
+	line-height: 24px;
+}
+.card-data{
+	opacity: 0.5;
+    color: #4A5565;
+    margin-top: 20px;
+	font-size: 14px;
+	line-height: 20px;
+}
